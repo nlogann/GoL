@@ -1,0 +1,10 @@
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\bin\Debug\Northrup,Logan GOL.exe.config
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\bin\Debug\Northrup,Logan GOL.exe
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\bin\Debug\Northrup,Logan GOL.pdb
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\obj\Debug\Northrup,Logan GOL.csproj.AssemblyReference.cache
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\obj\Debug\Northrup_Logan_GOL.Form1.resources
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\obj\Debug\Northrup_Logan_GOL.Properties.Resources.resources
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\obj\Debug\Northrup,Logan GOL.csproj.GenerateResource.cache
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\obj\Debug\Northrup,Logan GOL.csproj.CoreCompileInputs.cache
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\obj\Debug\Northrup,Logan GOL.exe
+C:\Users\thesk\OneDrive\Desktop\Northrup,Logan GOL\Northrup,Logan GOL\obj\Debug\Northrup,Logan GOL.pdb
